@@ -47,6 +47,7 @@ app.*.map.json
 /macos
 /windows
 /web
+/test
 .metadata
 analysis_options.yaml
 pubspec.lock
